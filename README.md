@@ -1,7 +1,6 @@
 # Simple Portfolio Template
 
-![Template Preview](readme.png)
-<img src="readme.png" alt="Template Preview" style="width:300px;"/>
+<img src="readme.png" alt="Template Preview" style="width:600px;"/>
 
 A lightweight, open-source HTML/CSS/JS template for developers and designers just starting out who need a professional, free site to showcase their work.
 
